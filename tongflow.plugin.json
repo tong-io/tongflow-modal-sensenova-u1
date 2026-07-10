@@ -1,0 +1,8 @@
+{
+    "plugin": {
+        "name": "SenseNova-U1",
+        "description": "Unified multimodal generation and understanding with SenseTime SenseNova-U1 — infographic image gen, editing, and understanding.",
+        "icon": "/plugins/tongflow-modal-sensenova-u1.svg"
+    },
+    "env": []
+}

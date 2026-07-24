@@ -137,7 +137,7 @@ image = (
         "torchvision==0.23.0",
         extra_index_url="https://download.pytorch.org/whl/cu128",
     )
-    .pip_install("tongflow==0.1.0")
+    .pip_install("tongflow==0.2.16")
     # sensenova-u1 is not on PyPI; install from source. A `pip install git+...`
     # forces `git submodule update --recursive`, which fails on the repo's broken
     # `evaluation/` submodule refs — so shallow-clone WITHOUT submodules and install
